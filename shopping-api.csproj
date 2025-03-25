@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
@@ -21,6 +21,7 @@
   <ItemGroup>
     <Folder Include="Controller\payment\" />
     <Folder Include="Controller\order_detall\" />
+    <Folder Include="Migrations\" />
     <Folder Include="Model\payment\" />
     <Folder Include="Repository\order_detall\" />
     <Folder Include="Repository\payment\" />

@@ -137,4 +137,5 @@ C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\zh-Hans\
 C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Public\code\backend\shopping-api\shopping-api\obj\Debug\net8.0\shopping-api.sourcelink.json
 C:\Users\Public\code\backend\shopping-api\shopping-api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

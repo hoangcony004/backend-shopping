@@ -6,10 +6,11 @@ namespace shopping_api.Model.category
     public class Category
     {
         public int Id { get; set; }
-        public string Name { get; set; }
+        public string Name { get; set; } = null!;
         public DateTime Created { get; set; } = DateTime.UtcNow;
 
         [JsonIgnore]
-        public ICollection<Product> Products { get; set; }
+        public ICollection<Product> Products { get; set; } = new List<Product>();
+
     }
 }

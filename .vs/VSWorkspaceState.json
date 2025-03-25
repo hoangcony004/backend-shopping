@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controller",
+    "\\Model\\order_detail",
+    "\\Model\\product",
+    "\\Properties",
+    "\\Repository",
+    "\\Repository\\category",
+    "\\Repository\\order",
+    "\\Repository\\order_detail",
+    "\\Service"
+  ],
+  "SelectedNode": "\\Repository\\order\\OrderRepository.cs",
+  "PreviewInSolutionExplorer": false
+}
