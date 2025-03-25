@@ -139,3 +139,15 @@ C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\runtimes
 C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\Public\code\backend\shopping-api\shopping-api\obj\Debug\net8.0\shopping-api.sourcelink.json
 C:\Users\Public\code\backend\shopping-api\shopping-api\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\out\web.config
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\web.config
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\appsettings.json
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\out\appsettings.Development.json
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\out\appsettings.json
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\out\shopping-api.deps.json
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\out\shopping-api.runtimeconfig.json
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\out\shopping-api.staticwebassets.endpoints.json
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\shopping-api.deps.json
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\shopping-api.runtimeconfig.json
+C:\Users\Public\code\backend\shopping-api\shopping-api\bin\Debug\net8.0\out\shopping-api.staticwebassets.endpoints.json
